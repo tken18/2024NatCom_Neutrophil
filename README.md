@@ -1,4 +1,4 @@
-# scRNA-Seq reanalysis of human neutrophils (Ueki et al, Nature communication, 2024)
+# scRNA-Seq reanalysis of human neutrophils (Ueki et al, Nature communication, 2025)
 
 This repository contains scripts used for scRNA-Seq data analysis in our paper: https://doi.org/10.1038/s41467-024-55272-0<br>
 <br>
